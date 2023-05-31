@@ -1,5 +1,4 @@
-# Stock-Price Analysis
-## Analyzed the Stock Price of Tesla and GME
+# Stock Price and Revenue Analysis of Tesla and GameStop
 
 * In this project, we analyzed the share price and quarterly revenue of Tesla(TSLA) and GameStop(GME).
 
