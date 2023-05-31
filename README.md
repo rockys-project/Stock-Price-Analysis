@@ -13,7 +13,11 @@
 
 * When analyzing Tesla (TSLA) stock, we observed a correlation between quarterly revenue and share price.
 
+![FALIED TO LOAD THE GRAPH PLEASE GO THROUGH THE ATTACHED SOURCE CODE](https://github.com/rockys-project/Stock-Price-Analysis/blob/main/Graphs/TSLA.png)
+
 * Analyzing the graph, we noticed that GameStop Corp's(GME) quarterly revenue has consistently been high during the last quarter of every year, coinciding with the holiday season in the United States when customers purchase games for the holidays.
+
+![FALIED TO LOAD THE GRAPH PLEASE GO THROUGH THE ATTACHED SOURCE CODE](https://github.com/rockys-project/Stock-Price-Analysis/blob/main/Graphs/TSLA.png)
 
 * However, there was no significant fluctuation in share price in relation to the revenue in GameStop(GME). It is presumed that the shareholders understand the revenue pattern of the company and do not sell off their shares.
 
